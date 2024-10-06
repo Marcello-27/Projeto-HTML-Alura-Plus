@@ -4,7 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte--principal: 'inter';
-    --botao-azul-efeito: #13c92f;
+    --botao-azul-efeito: #9b6bf5;
 
 
 
@@ -94,7 +94,7 @@ body {
 }
 .descricao__titulo {
     font-weight: bold;
-    line-height: 58px; /* Ajuste para definir a altura da linha */
+    line-height: 58px;
     font-size: 48px;
     margin-bottom: 0.1em;
     color: var(--branco-principal);
